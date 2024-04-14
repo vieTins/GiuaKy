@@ -1,20 +1,17 @@
 <Students>
     <Student>
-        <id>1</id>
-        <name>John Doe</name>
-        <address>123 Main Street</address>
-        <dateOfBirth>2000-01-01</dateOfBirth>
+        <Age>22</Age>
+        <isPrime>false</isPrime>
+        <Sum>2</Sum>
     </Student>
     <Student>
-        <id>2</id>
-        <name>Jane Smith</name>
-        <address>456 Oak Avenue</address>
-        <dateOfBirth>1998-05-15</dateOfBirth>
+        <Age>24</Age>
+        <isPrime>true</isPrime>
+        <Sum>5</Sum>
     </Student>
     <Student>
-        <id>3</id>
-        <name>Michael Johnson</name>
-        <address>789 Elm Drive</address>
-        <dateOfBirth>2002-11-34</dateOfBirth>
+        <Age>21</Age>
+        <isPrime>false</isPrime>
+        <Sum>5</Sum>
     </Student>
 </Students>
